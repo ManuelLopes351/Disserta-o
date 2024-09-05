@@ -1,0 +1,1342 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "aftercrash",
+	"origin" : "aftercrash",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 0,
+	"snapshot" : 	{
+		"master" : 		{
+			"value" : 1.0
+		}
+,
+		"X2" : 		{
+			"value" : 2.0
+		}
+,
+		"__presetid" : "aftercrash",
+		"d4_on_off" : 		{
+			"value" : 1.0
+		}
+,
+		"i3_vol" : 		{
+			"value" : 1.0
+		}
+,
+		"i1_on_off" : 		{
+			"value" : 0.0
+		}
+,
+		"i4_note" : 		{
+			"value" : 4.0
+		}
+,
+		"manual" : 		{
+			"value" : 1.0
+		}
+,
+		"on_off" : 		{
+			"value" : 0.0
+		}
+,
+		"auto" : 		{
+			"value" : 1.0
+		}
+,
+		"fx1_g" : 		{
+			"value" : 0.747474747474748
+		}
+,
+		"i1_octave" : 		{
+			"value" : 24.0
+		}
+,
+		"hp" : 		{
+			"value" : 0.0
+		}
+,
+		"bdur" : 		{
+			"value" : 574.34343434343441
+		}
+,
+		"c4" : 		{
+			"value" : 0.656565656565657
+		}
+,
+		"follow" : 		{
+			"value" : 3.0
+		}
+,
+		"auto_l" : 		{
+			"value" : 0.0
+		}
+,
+		"d6_on_off" : 		{
+			"value" : 0.0
+		}
+,
+		"i1_vol" : 		{
+			"value" : 0.771653543307082
+		}
+,
+		"1step" : 		{
+			"value" : 1.0
+		}
+,
+		"whaa_on_off" : 		{
+			"value" : 0.0
+		}
+,
+		"c1" : 		{
+			"value" : 0.656565656565657
+		}
+,
+		"flanger" : 		{
+			"value" : 1.0
+		}
+,
+		"d1_on_off" : 		{
+			"value" : 1.0
+		}
+,
+		"d3_on_off" : 		{
+			"value" : 0.0
+		}
+,
+		"bpm" : 		{
+			"value" : 123.0
+		}
+,
+		"i4_vol" : 		{
+			"value" : 1.0
+		}
+,
+		"i3_octave" : 		{
+			"value" : 48.0
+		}
+,
+		"i2_on_off" : 		{
+			"value" : 0.0
+		}
+,
+		"st1" : 		{
+			"value" : 2.0
+		}
+,
+		"d5_on_off" : 		{
+			"value" : 0.0
+		}
+,
+		"i2_vol" : 		{
+			"value" : 1.0
+		}
+,
+		"d2_on_off" : 		{
+			"value" : 1.0
+		}
+,
+		"lightspeed" : 		{
+			"value" : 1.0
+		}
+,
+		"st2" : 		{
+			"value" : 1.0
+		}
+,
+		"c3" : 		{
+			"value" : 0.656565656565657
+		}
+,
+		"st3" : 		{
+			"value" : 1.0
+		}
+,
+		"cm" : 		{
+			"value" : 0.656565656565657
+		}
+,
+		"st4" : 		{
+			"value" : 4.0
+		}
+,
+		"fx4_g" : 		{
+			"value" : 0.747474747474748
+		}
+,
+		"scale" : 		{
+			"value" : 1.0
+		}
+,
+		"c5" : 		{
+			"value" : 0.656565656565657
+		}
+,
+		"st5" : 		{
+			"value" : 4.0
+		}
+,
+		"fx2_g" : 		{
+			"value" : 0.464646464646465
+		}
+,
+		"c6" : 		{
+			"value" : 0.656565656565657
+		}
+,
+		"fx3_g" : 		{
+			"value" : 0.747474747474748
+		}
+,
+		"fund" : 		{
+			"value" : 9.0
+		}
+,
+		"st6" : 		{
+			"value" : 1.0
+		}
+,
+		"__sps" : 		{
+			"bus_b1" : 			{
+
+			}
+,
+			"bus_r1" : 			{
+
+			}
+,
+			"s1" : 			{
+
+			}
+,
+			"adsr1" : 			{
+
+			}
+,
+			"reverb" : 			{
+				"decay" : 				{
+					"value" : 76.767676767676775
+				}
+,
+				"preset" : 				{
+					"value" : 2.0
+				}
+,
+				"__sps" : 				{
+					"Mix~" : 					{
+
+					}
+,
+					"CombR~" : 					{
+
+					}
+,
+					"Shuffle~" : 					{
+
+					}
+,
+					"RoomB~" : 					{
+
+					}
+,
+					"Blur~" : 					{
+
+					}
+,
+					"CombL~" : 					{
+
+					}
+,
+					"RoomA~" : 					{
+
+					}
+,
+					"Damp~" : 					{
+
+					}
+
+				}
+
+			}
+,
+			"saturation" : 			{
+				"freq" : 				{
+					"value" : 79.797979797979806
+				}
+,
+				"preset" : 				{
+					"value" : 1.0
+				}
+,
+				"__sps" : 				{
+					"FullBandBoost~" : 					{
+
+					}
+,
+					"BandLimitedBoost~" : 					{
+
+					}
+,
+					"Options~" : 					{
+
+					}
+
+				}
+
+			}
+,
+			"waves" : 			{
+				"freq" : 				{
+					"value" : 314.141414141414145
+				}
+
+			}
+,
+			"wha" : 			{
+				"__sps" : 				{
+					"FormantFilter~[1]" : 					{
+
+					}
+,
+					"FormantFilter~" : 					{
+
+					}
+,
+					"Spread~" : 					{
+
+					}
+,
+					"Modulation~" : 					{
+
+					}
+,
+					"Formants" : 					{
+						"__sps" : 						{
+							"Formant2" : 							{
+								"__sps" : 								{
+									"dBtoa" : 									{
+
+									}
+,
+									"BwtoQ" : 									{
+
+									}
+
+								}
+
+							}
+,
+							"Bass" : 							{
+
+							}
+,
+							"Alto" : 							{
+
+							}
+,
+							"Formant1" : 							{
+								"__sps" : 								{
+									"dBtoa" : 									{
+
+									}
+,
+									"BwtoQ" : 									{
+
+									}
+
+								}
+
+							}
+,
+							"Formant3" : 							{
+								"__sps" : 								{
+									"dBtoa" : 									{
+
+									}
+,
+									"BwtoQ" : 									{
+
+									}
+
+								}
+
+							}
+,
+							"Tenor" : 							{
+
+							}
+,
+							"CTenor" : 							{
+
+							}
+,
+							"Formant4" : 							{
+								"__sps" : 								{
+									"dBtoa" : 									{
+
+									}
+,
+									"BwtoQ" : 									{
+
+									}
+
+								}
+
+							}
+,
+							"Soprano" : 							{
+
+							}
+,
+							"Formant5" : 							{
+								"__sps" : 								{
+									"dBtoa" : 									{
+
+									}
+,
+									"BwtoQ" : 									{
+
+									}
+
+								}
+
+							}
+
+						}
+
+					}
+
+				}
+,
+				"manual" : 				{
+					"value" : 73.0
+				}
+
+			}
+,
+			"s3" : 			{
+
+			}
+,
+			"pitch" : 			{
+				"transp" : 				{
+					"value" : 0.0
+				}
+,
+				"__sps" : 				{
+					"Switch~" : 					{
+
+					}
+,
+					"Mix~" : 					{
+
+					}
+,
+					"FreqCalc" : 					{
+
+					}
+,
+					"PitchShift~[1]" : 					{
+
+					}
+,
+					"PitchShift~" : 					{
+
+					}
+
+				}
+
+			}
+,
+			"bus_d2" : 			{
+
+			}
+,
+			"drumbuffers" : 			{
+
+			}
+,
+			"bus_b2" : 			{
+
+			}
+,
+			"distortion" : 			{
+				"high" : 				{
+					"value" : 44.44444444444445
+				}
+,
+				"preset" : 				{
+					"value" : 3.0
+				}
+,
+				"__sps" : 				{
+					"Mix~" : 					{
+
+					}
+,
+					"Pre-EQ~" : 					{
+
+					}
+,
+					"Drive~" : 					{
+
+					}
+,
+					"Volume~" : 					{
+
+					}
+,
+					"Post-EQ~" : 					{
+						"__sps" : 						{
+							"Bass~" : 							{
+
+							}
+,
+							"Mid~" : 							{
+
+							}
+,
+							"Treble~" : 							{
+
+							}
+
+						}
+
+					}
+
+				}
+
+			}
+,
+			"bus_d1" : 			{
+
+			}
+,
+			"trem" : 			{
+				"depth" : 				{
+					"value" : 50.0
+				}
+,
+				"__sps" : 				{
+					"LFO~" : 					{
+
+					}
+
+				}
+
+			}
+,
+			"shimer" : 			{
+				"preset" : 				{
+					"value" : 3.0
+				}
+,
+				"decay" : 				{
+					"value" : 25.0
+				}
+,
+				"__sps" : 				{
+					"Pitch~" : 					{
+						"__sps" : 						{
+							"Shift~[1]" : 							{
+
+							}
+,
+							"Shift~" : 							{
+
+							}
+
+						}
+
+					}
+,
+					"Octave~" : 					{
+						"__sps" : 						{
+							"Shift~[1]" : 							{
+
+							}
+,
+							"Shift~" : 							{
+
+							}
+
+						}
+
+					}
+,
+					"Mix~" : 					{
+
+					}
+,
+					"Volumes~" : 					{
+
+					}
+,
+					"Reverb~" : 					{
+						"__sps" : 						{
+							"RoomB~" : 							{
+
+							}
+,
+							"Blur~" : 							{
+
+							}
+,
+							"RoomA~" : 							{
+
+							}
+,
+							"Damp~" : 							{
+
+							}
+,
+							"CombR~" : 							{
+
+							}
+,
+							"Shuffle~" : 							{
+
+							}
+,
+							"CombL~" : 							{
+
+							}
+,
+							"MapParams" : 							{
+
+							}
+
+						}
+
+					}
+,
+					"Chorus~" : 					{
+
+					}
+,
+					"Feedback~" : 					{
+						"__sps" : 						{
+							"Gate~" : 							{
+
+							}
+
+						}
+
+					}
+,
+					"Delay~" : 					{
+
+					}
+
+				}
+
+			}
+,
+			"chorus" : 			{
+				"preset" : 				{
+					"value" : 3.0
+				}
+,
+				"depth" : 				{
+					"value" : 0.0
+				}
+,
+				"__sps" : 				{
+					"LowCut~" : 					{
+
+					}
+,
+					"HiCut~" : 					{
+
+					}
+,
+					"LFO~" : 					{
+
+					}
+
+				}
+
+			}
+,
+			"phaser" : 			{
+				"preset" : 				{
+					"value" : 3.0
+				}
+,
+				"rate" : 				{
+					"value" : 57.575757575757578
+				}
+,
+				"__sps" : 				{
+					"LFO~" : 					{
+
+					}
+,
+					"MapToFilterFreq~" : 					{
+
+					}
+
+				}
+
+			}
+,
+			"delay" : 			{
+				"steps" : 				{
+					"value" : 4.0
+				}
+,
+				"preset" : 				{
+					"value" : 3.0
+				}
+,
+				"volume" : 				{
+					"value" : 0.0
+				}
+,
+				"mix" : 				{
+					"value" : 50.0
+				}
+,
+				"__sps" : 				{
+					"Mix~" : 					{
+
+					}
+,
+					"Input~" : 					{
+
+					}
+,
+					"Volume~" : 					{
+
+					}
+,
+					"FilterDelay~" : 					{
+						"__sps" : 						{
+							"Filter~[3]" : 							{
+
+							}
+,
+							"Filter~[2]" : 							{
+
+							}
+,
+							"Filter~[1]" : 							{
+
+							}
+,
+							"Filter~" : 							{
+
+							}
+
+						}
+
+					}
+,
+					"TapTempo" : 					{
+
+					}
+,
+					"DelayCalc" : 					{
+
+					}
+
+				}
+
+			}
+,
+			"bus_r2" : 			{
+
+			}
+,
+			"bus_l1" : 			{
+
+			}
+,
+			"synth" : [ 				{
+					"reverb/predelay" : 					{
+						"value" : 10.0
+					}
+,
+					"reverb/decay" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/decaydiffusion2" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/decaydiffusion1" : 					{
+						"value" : 0.7
+					}
+,
+					"reverb/drywet" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/indiffusion2" : 					{
+						"value" : 0.625
+					}
+,
+					"reverb/inbandwidth" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/indiffusion1" : 					{
+						"value" : 0.75
+					}
+,
+					"reverb/damping" : 					{
+						"value" : 0.5
+					}
+,
+					"__sps" : 					{
+						"adser" : 						{
+							"attack" : 							{
+								"value" : 295.275590551181381
+							}
+,
+							"re" : 							{
+								"value" : 129.921259842519703
+							}
+
+						}
+,
+						"ad" : 						{
+							"presets" : 							{
+								"value" : 4.0
+							}
+
+						}
+
+					}
+
+				}
+, 				{
+					"reverb/predelay" : 					{
+						"value" : 10.0
+					}
+,
+					"reverb/decay" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/decaydiffusion2" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/decaydiffusion1" : 					{
+						"value" : 0.7
+					}
+,
+					"reverb/drywet" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/indiffusion2" : 					{
+						"value" : 0.625
+					}
+,
+					"reverb/inbandwidth" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/indiffusion1" : 					{
+						"value" : 0.75
+					}
+,
+					"reverb/damping" : 					{
+						"value" : 0.5
+					}
+,
+					"__sps" : 					{
+						"adser" : 						{
+							"attack" : 							{
+								"value" : 295.275590551181381
+							}
+,
+							"re" : 							{
+								"value" : 129.921259842519703
+							}
+
+						}
+,
+						"ad" : 						{
+							"presets" : 							{
+								"value" : 4.0
+							}
+
+						}
+
+					}
+
+				}
+, 				{
+					"reverb/predelay" : 					{
+						"value" : 10.0
+					}
+,
+					"reverb/decay" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/decaydiffusion2" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/decaydiffusion1" : 					{
+						"value" : 0.7
+					}
+,
+					"reverb/drywet" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/indiffusion2" : 					{
+						"value" : 0.625
+					}
+,
+					"reverb/inbandwidth" : 					{
+						"value" : 0.5
+					}
+,
+					"reverb/indiffusion1" : 					{
+						"value" : 0.75
+					}
+,
+					"reverb/damping" : 					{
+						"value" : 0.5
+					}
+,
+					"__sps" : 					{
+						"adser" : 						{
+							"attack" : 							{
+								"value" : 295.275590551181381
+							}
+,
+							"re" : 							{
+								"value" : 129.921259842519703
+							}
+
+						}
+,
+						"ad" : 						{
+							"presets" : 							{
+								"value" : 4.0
+							}
+
+						}
+
+					}
+
+				}
+ ],
+			"chord" : 			{
+				"__sps" : 				{
+					"major[1]" : 					{
+						"__sps" : 						{
+							"m[2]" : 							{
+
+							}
+,
+							"M[2]" : 							{
+
+							}
+,
+							"M[1]" : 							{
+
+							}
+,
+							"m[1]" : 							{
+
+							}
+,
+							"m" : 							{
+
+							}
+,
+							"M" : 							{
+
+							}
+,
+							"dim" : 							{
+
+							}
+
+						}
+
+					}
+,
+					"minor[1]" : 					{
+						"__sps" : 						{
+							"M" : 							{
+
+							}
+,
+							"m" : 							{
+
+							}
+,
+							"dim" : 							{
+
+							}
+,
+							"m[2]" : 							{
+
+							}
+,
+							"M[2]" : 							{
+
+							}
+,
+							"M[1]" : 							{
+
+							}
+,
+							"m[1]" : 							{
+
+							}
+
+						}
+
+					}
+,
+					"major" : 					{
+						"__sps" : 						{
+							"m[2]" : 							{
+
+							}
+,
+							"M[2]" : 							{
+
+							}
+,
+							"M[1]" : 							{
+
+							}
+,
+							"m[1]" : 							{
+
+							}
+,
+							"m" : 							{
+
+							}
+,
+							"M" : 							{
+
+							}
+,
+							"dim" : 							{
+
+							}
+
+						}
+
+					}
+,
+					"minor" : 					{
+						"__sps" : 						{
+							"M" : 							{
+
+							}
+,
+							"m" : 							{
+
+							}
+,
+							"dim" : 							{
+
+							}
+,
+							"m[2]" : 							{
+
+							}
+,
+							"M[2]" : 							{
+
+							}
+,
+							"M[1]" : 							{
+
+							}
+,
+							"m[1]" : 							{
+
+							}
+
+						}
+
+					}
+
+				}
+
+			}
+,
+			"bus_l2" : 			{
+
+			}
+,
+			"ringmod" : 			{
+				"freq" : 				{
+					"value" : 0.0
+				}
+,
+				"preset" : 				{
+					"value" : 1.0
+				}
+
+			}
+,
+			"flanger[1]" : 			{
+				"depth" : 				{
+					"value" : 13.0
+				}
+,
+				"__sps" : 				{
+					"LFO~" : 					{
+
+					}
+
+				}
+
+			}
+,
+			"s4" : 			{
+
+			}
+,
+			"fm" : [ 				{
+					"harmonicity" : 					{
+						"value" : 0.0
+					}
+,
+					"wave" : 					{
+						"value" : 6.0
+					}
+,
+					"mod" : 					{
+						"value" : 0.0
+					}
+,
+					"__sps" : 					{
+						"p7" : 						{
+
+						}
+,
+						"stereo_delayi4" : 						{
+
+						}
+,
+						"adsr3" : 						{
+							"attack" : 							{
+								"value" : 50.0
+							}
+,
+							"sus" : 							{
+								"value" : 0.0
+							}
+,
+							"re" : 							{
+								"value" : 794.488188976377501
+							}
+
+						}
+,
+						"p4" : 						{
+
+						}
+,
+						"p5" : 						{
+
+						}
+,
+						"p6" : 						{
+
+						}
+,
+						"p8" : 						{
+
+						}
+
+					}
+
+				}
+, 				{
+					"harmonicity" : 					{
+						"value" : 0.0
+					}
+,
+					"wave" : 					{
+						"value" : 6.0
+					}
+,
+					"mod" : 					{
+						"value" : 0.0
+					}
+,
+					"__sps" : 					{
+						"p7" : 						{
+
+						}
+,
+						"stereo_delayi4" : 						{
+
+						}
+,
+						"adsr3" : 						{
+							"attack" : 							{
+								"value" : 50.0
+							}
+,
+							"sus" : 							{
+								"value" : 0.0
+							}
+,
+							"re" : 							{
+								"value" : 794.488188976377501
+							}
+
+						}
+,
+						"p4" : 						{
+
+						}
+,
+						"p5" : 						{
+
+						}
+,
+						"p6" : 						{
+
+						}
+,
+						"p8" : 						{
+
+						}
+
+					}
+
+				}
+, 				{
+					"harmonicity" : 					{
+						"value" : 0.0
+					}
+,
+					"wave" : 					{
+						"value" : 6.0
+					}
+,
+					"mod" : 					{
+						"value" : 0.0
+					}
+,
+					"__sps" : 					{
+						"p7" : 						{
+
+						}
+,
+						"stereo_delayi4" : 						{
+
+						}
+,
+						"adsr3" : 						{
+							"attack" : 							{
+								"value" : 50.0
+							}
+,
+							"sus" : 							{
+								"value" : 0.0
+							}
+,
+							"re" : 							{
+								"value" : 794.488188976377501
+							}
+
+						}
+,
+						"p4" : 						{
+
+						}
+,
+						"p5" : 						{
+
+						}
+,
+						"p6" : 						{
+
+						}
+,
+						"p8" : 						{
+
+						}
+
+					}
+
+				}
+ ]
+		}
+,
+		"kit" : 		{
+			"value" : 2.0
+		}
+,
+		"fx5_g" : 		{
+			"value" : 0.747474747474748
+		}
+,
+		"tremolo" : 		{
+			"value" : 1.0
+		}
+,
+		"fx6_g" : 		{
+			"value" : 0.747474747474748
+		}
+,
+		"fx7_g" : 		{
+			"value" : 0.747474747474748
+		}
+,
+		"auto_r" : 		{
+			"value" : 1.0
+		}
+,
+		"fx8_g" : 		{
+			"value" : 0.747474747474748
+		}
+,
+		"12step" : 		{
+			"value" : 1.0
+		}
+,
+		"8step" : 		{
+			"value" : 7.0
+		}
+,
+		"4step" : 		{
+			"value" : 6.0
+		}
+,
+		"i4_octave" : 		{
+			"value" : 60.0
+		}
+,
+		"i3_on_off" : 		{
+			"value" : 0.0
+		}
+,
+		"i3_note" : 		{
+			"value" : 6.0
+		}
+,
+		"i4_on_off" : 		{
+			"value" : 0.0
+		}
+,
+		"l_hp" : 		{
+			"value" : 33.333333333333336
+		}
+
+	}
+
+}
